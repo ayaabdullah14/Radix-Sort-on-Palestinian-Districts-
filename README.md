@@ -1,5 +1,6 @@
 ## Project #1: Radix Sort on Palestinian Districts (Doubly Linked List)
-
+![Queue](https://img.shields.io/badge/Queue-Data%20Structure-blue?style=flat-square)
+![Linked List](https://img.shields.io/badge/Linked%20List-Data%20Structure-orange?style=flat-square)
 ---
 
 ## Overview
